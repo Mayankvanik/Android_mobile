@@ -5,7 +5,8 @@ import pickle
 
 
 pipe = pickle.load(open('pipexg.pkl','rb'))
-df = pickle.load(open('d2.pkl','rb'))
+#df = pickle.load(open('d2.pkl','rb'))
+df = pd.read_csv('mobi_new01.csv')
 
 st.title('Android Mobile Price Predictor')
 

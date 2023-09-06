@@ -1,0 +1,802 @@
+,brand,price,rating,display_quality,processor_brand,has_5g,primary_rear_lens,has_nfc,os,processor_speed,ram_capacity,internal_memory
+0,OnePlus,18999,81.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,6,128
+1,Motorola,14999,81.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,6,128
+2,Samsung,16499,75.0,Full HD,Exynos,True,50,False,Android,Mild Range,4,64
+3,Realme,24999,82.0,Full HD,Dimensity,True,108,False,Android,Upper Mild Range,6,128
+4,Apple,72999,81.0,Quad HD,Bionic,True,12,True,iOS,High End,6,128
+5,OnePlus,28999,84.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,8,128
+6,Xiaomi,29999,86.0,Full HD,Dimensity,True,200,False,Android,Upper Mild Range,8,256
+8,Realme,18999,82.0,Full HD,Snapdragon,True,108,False,Android,Mild Range,6,128
+9,Vivo,16990,80.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,6,128
+10,Xiaomi,24842,79.0,Full HD,Dimensity,True,50,False,Android,Upper Mild Range,6,128
+11,Samsung,16990,80.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,6,128
+12,Oppo,18999,79.0,HD,Dimensity,True,50,True,Android,Mild Range,8,128
+13,OnePlus,32999,86.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,8,128
+14,Poco,18999,80.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,6,64
+15,Apple,61999,79.0,Quad HD,Bionic,True,12,True,iOS,High End,4,128
+16,Apple,129990,76.0,Quad HD,Bionic,True,48,True,iOS,High End,6,128
+17,Vivo,9999,65.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+18,OnePlus,21999,84.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+19,Vivo,14499,72.0,HD,Helio,False,50,False,Android,Entry Level,4,64
+20,Apple,41490,73.0,HD,Bionic,False,12,True,iOS,Upper Mild Range,4,64
+21,Vivo,35999,85.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,8,128
+22,Samsung,31206,88.0,Full HD,Snapdragon,True,12,True,Android,Upper Mild Range,8,128
+23,Vivo,27999,83.0,Full HD,Dimensity,True,64,False,Android,Entry Level,8,128
+24,Xiaomi,17195,76.0,Full HD,Snapdragon,True,48,False,Android,Entry Level,4,128
+25,Realme,19999,84.0,Full HD,Snapdragon,True,108,False,Android,Mild Range,8,128
+26,Samsung,23889,85.0,Full HD,Dimensity,True,108,False,Android,Mild Range,6,128
+27,Samsung,90500,88.8,Quad HD,Snapdragon,True,108,True,Android,Upper Mild Range,12,256
+28,Motorola,18999,87.0,Full HD,Dimensity,True,108,True,Android,Mild Range,6,128
+29,Xiaomi,11889,76.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,64
+30,Vivo,18499,80.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+31,Samsung,17499,79.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+32,Xiaomi,20999,83.0,Full HD,Snapdragon,True,108,False,Android,Mild Range,6,128
+33,Samsung,39999,87.0,Full HD,Exynos,True,12,True,Android,Upper Mild Range,8,128
+34,Vivo,12499,68.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+35,Realme,8970,64.0,HD,Unisoc,False,50,False,Android,Entry Level,3,32
+36,Samsung,17384,81.0,Full HD,Exynos,True,50,True,Android,Mild Range,6,128
+37,Motorola,18999,83.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,6,128
+38,Apple,81999,82.0,Quad HD,Bionic,True,12,True,iOS,High End,6,128
+39,Realme,14815,75.0,Full HD,Dimensity,True,50,False,Android,Mild Range,4,64
+41,Xiaomi,10999,78.0,Full HD,Helio,False,64,False,Android,Mild Range,6,64
+42,Samsung,18999,79.0,Full HD,Exynos,True,50,False,Android,Mild Range,6,128
+43,Poco,16749,81.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+44,Realme,13999,74.0,Full HD,Helio,False,50,False,Android,Mild Range,4,64
+45,OnePlus,57990,89.0,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+46,Vivo,16499,75.0,HD,Helio,False,50,False,Android,Entry Level,6,128
+47,Vivo,27994,86.0,Full HD,Dimensity,True,64,False,Android,Mild Range,12,256
+48,Xiaomi,13999,79.0,Full HD,Dimensity,True,48,False,Android,Mild Range,6,128
+49,Vivo,19990,83.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,8,128
+50,iQOO,13999,75.0,Full HD,Snapdragon,True,50,False,Android,Entry Level,4,64
+51,Motorola,10499,75.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,64
+52,Xiaomi,32999,87.0,Full HD,Dimensity,True,200,False,Android,Upper Mild Range,12,256
+53,Apple,119900,83.0,Quad HD,Bionic,True,12,True,iOS,High End,6,128
+54,Samsung,14585,75.0,HD,Dimensity,True,50,False,Android,Mild Range,6,128
+55,Apple,122999,75.0,Quad HD,Bionic,True,48,True,iOS,High End,6,128
+56,Xiaomi,8353,66.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+57,Oppo,9499,62.0,HD,Helio,False,8,False,Android,Mild Range,3,64
+58,OnePlus,44999,85.0,Full HD,Snapdragon,True,50,True,Android,High End,8,128
+59,Realme,15699,75.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,64
+60,Motorola,15999,83.0,Full HD,Helio,False,108,True,Android,Mild Range,6,128
+61,Vivo,15990,78.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,4,128
+62,Realme,25999,84.0,Full HD,Dimensity,True,108,False,Android,Upper Mild Range,8,128
+63,Xiaomi,14499,80.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+64,Motorola,22999,83.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,6,128
+65,Motorola,15999,84.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,8,128
+66,Samsung,49999,86.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+67,Oppo,16999,79.0,HD,Dimensity,True,48,False,Android,Mild Range,8,128
+68,Vivo,13189,69.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+69,Samsung,20998,82.0,Full HD,Exynos,True,50,False,Android,Mild Range,8,128
+70,Samsung,38896,85.0,Full HD,Snapdragon,True,108,True,Android,Mild Range,8,128
+71,OnePlus,33900,85.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+72,Realme,9999,67.0,HD,Unisoc,False,50,False,Android,Entry Level,4,64
+73,Oppo,12499,72.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+74,Samsung,15999,78.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,4,128
+75,Samsung,22999,79.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,6,128
+76,Apple,53999,74.0,Quad HD,Bionic,True,12,True,iOS,High End,4,64
+77,Vivo,15999,79.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+78,Oppo,17999,82.0,Full HD,Dimensity,True,48,False,Android,Mild Range,8,128
+79,iQOO,59999,88.0,Quad HD,Snapdragon,True,50,True,Android,High End,8,256
+80,Oppo,29440,83.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,8,128
+81,Samsung,24990,87.0,Full HD,Dimensity,True,108,False,Android,Mild Range,8,128
+82,Google,32999,71.0,Full HD,Tensor,True,12,True,Android,Upper Mild Range,6,128
+83,Samsung,31499,87.0,Full HD,Exynos,True,64,True,Android,Mild Range,6,128
+84,Xiaomi,22680,82.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,6,128
+85,Tecno,39999,85.0,Full HD,Dimensity,True,64,True,Android,High End,8,256
+86,Xiaomi,9999,76.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,4,64
+87,Infinix,16999,84.0,Full HD,Dimensity,True,108,False,Android,Mild Range,8,128
+88,OnePlus,36999,87.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+89,Xiaomi,6242,60.8,HD,Helio,False,8,False,Android,Entry Level,2,32
+90,iQOO,22290,78.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,6,128
+91,Oppo,13990,78.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+92,Motorola,34999,89.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+93,Poco,18499,82.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,6,128
+94,Xiaomi,24999,87.0,Full HD,Snapdragon,True,108,False,Android,Mild Range,8,256
+95,Vivo,24994,83.0,Full HD,Dimensity,True,64,False,Android,Mild Range,8,128
+96,iQOO,29999,82.0,Full HD,Snapdragon,True,64,False,Android,High End,8,128
+97,Motorola,8299,71.0,HD,Tiger,False,48,False,Android,Entry Level,4,64
+98,Xiaomi,13725,74.0,Full HD,Dimensity,True,50,False,Android,Mild Range,4,64
+99,Samsung,25999,82.0,Full HD,Exynos,True,48,True,Android,Mild Range,6,128
+100,Realme,16600,81.0,Full HD,Snapdragon,False,108,False,Android,Mild Range,6,128
+101,iQOO,25990,83.0,Full HD,Snapdragon,True,48,True,Android,High End,8,128
+102,Motorola,10999,78.0,Full HD,Snapdragon,False,50,True,Android,Mild Range,4,64
+103,Samsung,19373,84.0,Full HD,Exynos,True,50,True,Android,Mild Range,8,128
+105,Realme,13849,74.0,Full HD,Tiger,False,50,False,Android,Entry Level,6,128
+106,Realme,5549,62.6,HD,Tiger,False,8,False,Android,Entry Level,2,32
+107,Realme,13499,75.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,64
+108,iQOO,15496,78.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,4,128
+109,Apple,41999,74.0,Quad HD,Bionic,True,12,True,iOS,High End,4,64
+110,Apple,45999,75.0,HD,Bionic,False,12,True,iOS,Upper Mild Range,4,128
+111,Samsung,9499,68.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+112,Poco,13950,76.0,Full HD,Dimensity,True,50,False,Android,Mild Range,4,64
+113,Oppo,25437,82.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+114,iQOO,15499,79.0,Full HD,Snapdragon,True,50,False,Android,Entry Level,6,128
+115,Motorola,11999,75.0,Full HD,Snapdragon,False,50,True,Android,Mild Range,4,64
+116,Xiaomi,9669,71.0,HD,Snapdragon,False,50,False,Android,Mild Range,4,64
+117,Samsung,11999,74.0,Full HD,Exynos,False,50,True,Android,Entry Level,4,64
+118,Oppo,15490,77.0,Full HD,Snapdragon,True,48,False,Android,Entry Level,6,128
+119,Apple,139990,77.0,Quad HD,Bionic,True,48,True,iOS,High End,6,256
+120,Realme,25900,79.0,Full HD,Snapdragon,True,64,False,Android,High End,6,128
+121,Infinix,32999,89.0,Full HD,Dimensity,True,200,False,Android,Mild Range,8,256
+122,iQOO,30990,83.0,Full HD,Snapdragon,True,48,True,Android,Upper Mild Range,8,128
+123,Vivo,21990,82.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,128
+124,Xiaomi,11999,80.0,Full HD,Helio,False,64,False,Android,Mild Range,6,64
+125,Apple,129900,84.0,Quad HD,Bionic,True,12,True,iOS,High End,6,128
+126,Xiaomi,19999,79.0,Full HD,Snapdragon,True,48,False,Android,Entry Level,6,128
+127,Realme,16999,79.0,Full HD,Helio,False,50,False,Android,Mild Range,8,128
+128,Xiaomi,11999,79.0,Full HD,Helio,False,64,False,Android,Mild Range,6,128
+129,Poco,12299,75.0,Full HD,Dimensity,True,50,False,Android,Mild Range,4,64
+130,Realme,20480,81.0,Full HD,Dimensity,True,48,False,Android,Mild Range,6,128
+131,Realme,11789,70.0,Full HD,Tiger,False,50,False,Android,Entry Level,4,64
+132,POCO,12799,77.0,Full HD,Helio,False,64,False,Android,Mild Range,6,64
+133,Infinix,12499,75.0,Full HD,Dimensity,True,50,False,Android,Mild Range,4,64
+134,Vivo,31999,85.0,Full HD,Dimensity,True,64,False,Android,Entry Level,12,256
+135,Oppo,17999,76.0,HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+136,Infinix,9999,73.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+138,Realme,17499,79.0,Full HD,Dimensity,True,48,False,Android,Mild Range,6,128
+139,Realme,11721,74.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+140,POCO,8350,68.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+141,Oppo,45999,86.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+142,Samsung,13999,75.0,Full HD,Other,False,50,False,Android,Entry Level,4,64
+143,Motorola,20499,86.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,8,128
+144,Motorola,12999,79.0,Full HD,Snapdragon,False,50,True,Android,Mild Range,6,128
+145,Xiaomi,12199,77.0,HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+146,Xiaomi,11989,79.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,64
+147,Motorola,39999,88.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+148,Samsung,8780,66.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+149,Vivo,31994,85.0,Full HD,Dimensity,True,108,False,Android,Upper Mild Range,8,128
+150,Google,84999,89.0,Quad HD,Tensor,True,50,True,Android,Upper Mild Range,12,128
+151,Tecno,9999,74.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+152,Motorola,53999,82.4,Full HD,Snapdragon,True,200,True,Android,High End,8,128
+153,Vivo,39999,86.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,12,256
+154,Poco,22009,84.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+155,Xiaomi,27999,82.0,Full HD,Dimensity,True,50,False,Android,Upper Mild Range,8,256
+156,OnePlus,65100,88.8,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,12,256
+157,Tecno,11999,73.0,HD,Helio,False,50,False,Android,Mild Range,8,128
+158,Realme,16999,78.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+159,Realme,25900,78.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+160,Vivo,11999,74.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,64
+161,Realme,18999,80.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,6,128
+162,Samsung,9299,65.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+163,Vivo,24999,84.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+164,Poco,14499,79.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+165,Samsung,14999,82.0,Full HD,Helio,False,64,False,Android,Entry Level,8,128
+166,Vivo,14499,77.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,128
+167,Vivo,10499,66.0,HD,Helio,False,13,False,Android,Mild Range,3,64
+168,Lava,10999,73.0,HD,Dimensity,True,50,False,Android,Mild Range,4,128
+169,iQOO,16999,80.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,6,128
+170,Motorola,24999,85.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,8,128
+171,Google,55000,89.0,Quad HD,Tensor,True,50,True,Android,Upper Mild Range,12,128
+172,Oppo,20880,82.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+173,Xiaomi,16999,81.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+174,POCO,7370,65.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+175,Xiaomi,49999,89.0,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,256
+176,Motorola,9999,75.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+177,Infinix,17999,87.0,Full HD,Helio,False,108,True,Android,Mild Range,8,128
+178,Google,53020,86.0,Full HD,Tensor,True,50,True,Android,Upper Mild Range,8,128
+179,Samsung,36499,89.0,Full HD,Exynos,True,64,True,Android,Mild Range,8,256
+180,Infinix,13999,78.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,64
+181,Oppo,13969,69.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+182,Apple,82999,82.0,Quad HD,Bionic,True,12,True,iOS,High End,6,256
+183,Tecno,49999,89.0,Full HD,Dimensity,True,50,True,Android,High End,12,256
+184,Oppo,31994,87.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+185,Samsung,24990,83.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,6,128
+186,Vivo,8999,62.8,HD,Helio,False,8,False,Android,Entry Level,3,32
+187,Apple,182999,78.0,Quad HD,Bionic,True,48,True,iOS,High End,6,1024
+188,Samsung,13490,75.0,Full HD,Exynos,False,50,False,Android,Entry Level,6,128
+189,Apple,56999,75.0,Quad HD,Bionic,True,12,True,iOS,High End,4,128
+190,Poco,16499,82.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,128
+191,Vivo,21638,84.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,128
+192,Samsung,64999,87.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+193,Poco,27999,82.0,Full HD,Snapdragon,True,64,True,Android,High End,6,128
+194,Apple,64900,79.0,Quad HD,Bionic,True,12,True,iOS,High End,4,128
+195,Vivo,18840,82.0,Full HD,Helio,False,50,False,Android,Mild Range,8,128
+196,Xiaomi,22700,86.0,Full HD,Snapdragon,True,108,False,Android,Mild Range,8,128
+197,Xiaomi,26999,82.0,Full HD,Dimensity,True,50,False,Android,Upper Mild Range,8,128
+198,Samsung,18999,82.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+199,Realme,8999,61.0,HD,Other,False,8,False,Android,Entry Level,4,64
+200,Xiaomi,12999,75.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,64
+201,Infinix,14499,78.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+202,Infinix,8599,67.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+203,Xiaomi,25999,85.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,8,256
+204,Realme,9999,65.0,HD,Tiger,False,13,False,Android,Entry Level,4,64
+205,OnePlus,64800,89.0,Quad HD,Snapdragon,True,48,True,Android,Upper Mild Range,8,128
+206,Motorola,59999,85.0,Full HD,Snapdragon,True,200,True,Android,High End,12,256
+207,Tecno,13918,77.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+208,Samsung,41150,87.0,Full HD,Snapdragon,True,108,True,Android,Mild Range,8,256
+209,Samsung,118999,88.8,Quad HD,Snapdragon,True,108,True,Android,Upper Mild Range,12,512
+210,Xiaomi,13999,82.0,Full HD,Helio,False,64,False,Android,Mild Range,8,128
+211,Tecno,15499,78.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,128
+212,Motorola,12999,77.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,4,64
+213,Realme,6549,60.0,HD,Tiger,False,8,False,Android,Entry Level,3,32
+214,Tecno,8999,69.0,HD,Helio,False,13,False,Android,Mild Range,6,128
+215,Xiaomi,7698,64.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+216,Samsung,24999,81.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,8,128
+217,Vivo,7785,60.0,HD,Helio,False,8,False,Android,Mild Range,2,32
+218,Samsung,14999,75.0,Full HD,Other,False,50,False,Android,Entry Level,4,128
+219,Infinix,16900,83.0,Full HD,Helio,False,108,False,Android,Mild Range,8,256
+220,Samsung,154998,88.2,Full HD,Snapdragon,True,50,True,Android,High End,12,256
+221,Oppo,25994,85.0,Full HD,Dimensity,True,64,True,Android,Entry Level,8,256
+222,Xiaomi,15999,77.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,128
+223,iQOO,23999,80.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+224,Samsung,32999,89.0,Full HD,Exynos,True,64,True,Android,Mild Range,8,128
+226,OnePlus,53739,87.0,Full HD,Snapdragon,True,50,True,Android,High End,16,256
+227,Samsung,12868,71.0,HD,Dimensity,True,50,False,Android,Mild Range,4,64
+228,Xiaomi,11999,75.0,HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+229,iQOO,17999,82.0,Full HD,Snapdragon,True,50,False,Android,Mild Range,8,128
+230,Realme,17999,79.0,Full HD,Dimensity,True,48,False,Android,Mild Range,6,128
+231,Xiaomi,21890,83.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,6,128
+232,Motorola,15985,84.0,Full HD,Snapdragon,False,108,True,Android,Mild Range,6,128
+233,Samsung,105999,88.8,Quad HD,Exynos,True,108,True,Android,Upper Mild Range,12,256
+234,Oppo,25980,82.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+235,Oppo,15499,70.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+236,Tecno,7999,65.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+237,Motorola,9499,75.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+238,Samsung,6775,62.6,HD,Unisoc,False,8,False,Android,Entry Level,2,32
+239,Google,42999,84.0,Full HD,Tensor,True,50,True,Android,Upper Mild Range,8,128
+240,Xiaomi,17990,81.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+241,iQOO,64999,89.0,Quad HD,Snapdragon,True,50,True,Android,High End,16,256
+242,Samsung,12378,75.0,Full HD,Helio,False,64,False,Android,Entry Level,4,64
+243,Tecno,21999,82.0,Full HD,Dimensity,True,64,True,Android,Mild Range,8,128
+244,Motorola,16990,80.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,6,128
+245,Poco,13499,80.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,64
+246,Samsung,22494,86.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+247,Vivo,14999,77.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+248,Infinix,10999,74.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+249,Samsung,42999,81.0,Quad HD,Exynos,False,16,True,Android,Upper Mild Range,8,128
+250,Apple,91999,83.0,Quad HD,Bionic,True,12,True,iOS,High End,6,256
+251,Samsung,11999,71.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+252,Realme,16999,76.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,128
+253,Oppo,20999,82.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+254,Samsung,7249,67.0,HD,Unisoc,False,48,False,Android,Entry Level,3,32
+255,iQOO,34990,84.0,Full HD,Snapdragon,True,48,False,Android,Upper Mild Range,8,128
+256,Poco,19490,82.0,Full HD,Snapdragon,False,48,False,Android,Upper Mild Range,6,128
+257,Vivo,18000,62.0,HD,Helio,False,13,False,Android,Entry Level,4,32
+258,Poco,33999,86.0,Full HD,Snapdragon,True,64,True,Android,High End,12,256
+259,Realme,15999,84.0,Full HD,Snapdragon,False,108,False,Android,Mild Range,8,128
+260,Samsung,27499,85.0,Full HD,Exynos,True,48,True,Android,Mild Range,8,128
+261,POCO,13499,79.0,Full HD,Helio,False,64,False,Android,Mild Range,6,128
+262,Xiaomi,14590,80.0,Full HD,Helio,False,108,False,Android,Mild Range,6,64
+263,Xiaomi,17499,83.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,128
+264,Oppo,14990,78.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,6,128
+265,Samsung,31999,86.0,Full HD,Exynos,False,12,True,Android,Upper Mild Range,8,128
+266,Xiaomi,10290,69.0,HD,Helio,False,13,False,Android,Entry Level,6,128
+267,Samsung,12490,71.0,HD,Exynos,False,50,False,Android,Entry Level,4,64
+268,Xiaomi,8499,68.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+269,Apple,72999,79.0,Quad HD,Bionic,True,12,True,iOS,High End,4,256
+270,Apple,139900,76.0,Quad HD,Bionic,True,48,True,iOS,High End,6,256
+271,Tecno,8890,63.0,HD,Unisoc,False,13,False,Android,Entry Level,4,64
+272,Vivo,23999,81.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,6,128
+273,Realme,28994,84.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+274,Apple,46999,75.0,Quad HD,Bionic,True,12,True,iOS,High End,4,128
+275,Google,19999,78.0,Quad HD,Snapdragon,False,16,True,Android,Upper Mild Range,6,64
+276,Realme,7145,62.6,HD,Unisoc,False,8,False,Android,Entry Level,2,32
+277,Motorola,8999,71.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+278,Xiaomi,16999,79.0,Full HD,Dimensity,True,50,False,Android,Mild Range,6,64
+279,Samsung,69999,84.0,Full HD,Snapdragon,True,12,True,Android,Upper Mild Range,8,128
+280,iKall,7499,62.0,HD,Other,False,20,False,Android,Entry Level,4,32
+281,Xiaomi,10850,70.0,HD,Helio,False,13,False,Android,Entry Level,6,128
+282,Realme,26999,81.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,128
+283,Xiaomi,7499,66.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+284,Realme,18499,80.0,Full HD,Dimensity,True,48,False,Android,Mild Range,8,128
+285,Oppo,37499,87.0,Full HD,Dimensity,True,64,True,Android,Upper Mild Range,12,256
+286,Samsung,48900,88.0,Full HD,Exynos,True,64,True,Android,Upper Mild Range,8,128
+287,Realme,27999,87.0,Full HD,Snapdragon,True,64,True,Android,Upper Mild Range,12,256
+288,Xiaomi,7140,61.0,HD,Helio,False,13,False,Android,Entry Level,2,32
+289,OnePlus,50999,87.0,Full HD,Snapdragon,True,50,True,Android,High End,12,256
+290,Realme,19949,80.0,Full HD,Snapdragon,True,48,False,Android,Mild Range,6,128
+291,Realme,20999,82.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+292,Samsung,43999,88.0,Full HD,Exynos,True,12,True,Android,Upper Mild Range,8,256
+293,Vivo,36994,87.0,Full HD,Dimensity,True,108,False,Android,Upper Mild Range,12,256
+294,Tecno,25999,84.0,Full HD,Helio,False,50,False,Android,Mild Range,8,256
+295,Oppo,52999,86.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+296,Oppo,16990,80.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+297,Vivo,79999,88.8,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,12,256
+298,Tecno,8799,72.0,Full HD,Helio,False,48,False,Android,Entry Level,4,64
+299,Xiaomi,24999,81.0,Full HD,Dimensity,True,108,False,Android,Mild Range,6,128
+300,Samsung,14999,80.0,Full HD,Helio,False,64,False,Android,Entry Level,6,128
+301,iQOO,33999,84.0,Full HD,Snapdragon,True,64,False,Android,High End,12,256
+302,Infinix,8999,72.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+303,Xiaomi,11999,80.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,6,128
+304,Oppo,14489,76.0,HD,Helio,False,50,False,Android,Mild Range,6,128
+305,Vivo,15490,79.0,Full HD,Helio,False,64,False,Android,Entry Level,8,128
+306,Samsung,11499,73.0,HD,Helio,False,48,False,Android,Entry Level,4,64
+307,Oppo,26490,83.0,Full HD,Dimensity,True,64,True,Android,Entry Level,8,128
+309,OnePlus,27999,77.0,Full HD,Snapdragon,False,20,True,Android,Upper Mild Range,8,128
+310,Samsung,12999,75.0,Full HD,Exynos,False,50,True,Android,Entry Level,4,128
+311,Infinix,8799,66.0,HD,Tiger,False,13,False,Android,Entry Level,4,64
+312,Infinix,6199,60.8,HD,Helio,False,8,False,Android,Entry Level,2,32
+313,Realme,12753,71.0,Full HD,Tiger,False,50,False,Android,Entry Level,4,128
+314,Xiaomi,11989,74.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+315,Apple,43900,63.4,HD,Bionic,True,12,True,iOS,High End,4,64
+316,Samsung,12349,76.0,Full HD,Helio,False,64,False,Android,Entry Level,4,64
+317,Xiaomi,23990,80.0,Full HD,Snapdragon,True,48,False,Android,High End,6,128
+318,Samsung,10499,68.0,HD,Helio,False,13,False,Android,Mild Range,4,128
+319,Xiaomi,7280,60.0,HD,Helio,False,8,False,Android,Entry Level,2,32
+320,Motorola,9497,67.0,HD,Helio,False,16,False,Android,Entry Level,4,64
+321,Oppo,8999,65.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+322,Xiaomi,13250,75.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,4,64
+324,Realme,27999,81.0,Full HD,Snapdragon,True,64,False,Android,High End,8,128
+325,Samsung,14990,79.0,Full HD,Helio,False,64,False,Android,Entry Level,6,128
+326,Poco,6249,60.8,HD,Helio,False,8,False,Android,Entry Level,2,32
+327,iQOO,34949,85.0,Full HD,Snapdragon,True,48,True,Android,Upper Mild Range,12,256
+328,Xiaomi,15795,84.0,Full HD,Helio,False,108,False,Android,Mild Range,8,128
+329,Vivo,54999,86.0,Full HD,Dimensity,True,50,False,Android,High End,8,128
+330,Realme,6471,60.6,HD,Unisoc,False,8,False,Android,Entry Level,2,32
+332,Realme,13499,78.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+333,Infinix,19949,82.0,Full HD,Dimensity,True,48,False,Android,Entry Level,8,128
+334,Motorola,11999,78.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+335,Samsung,15490,80.0,Full HD,Dimensity,True,64,False,Android,Mild Range,6,128
+336,Xiaomi,11999,77.0,Full HD,Snapdragon,False,12,False,Android,Upper Mild Range,6,64
+337,Nokia,11490,70.0,HD,Unisoc,False,50,False,Android,Entry Level,4,64
+338,Poco,10799,74.0,Full HD,Helio,False,50,False,Android,Mild Range,4,64
+339,iQOO,15999,80.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,6,128
+340,Realme,14999,75.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,128
+341,Xiaomi,34990,86.0,Full HD,Snapdragon,True,108,True,Android,Upper Mild Range,8,128
+342,Samsung,14489,80.0,Full HD,Helio,False,64,False,Android,Entry Level,6,128
+343,Realme,15999,78.0,Full HD,Helio,False,64,False,Android,Entry Level,4,128
+344,Google,35900,82.0,Full HD,Snapdragon,True,16,True,Android,Mild Range,8,128
+345,Tecno,6299,62.0,HD,Helio,False,8,False,Android,Entry Level,2,32
+347,Samsung,10529,71.0,Full HD,Exynos,False,50,False,Android,Entry Level,4,64
+348,Realme,22999,82.0,Full HD,Snapdragon,True,48,False,Android,Mild Range,8,128
+349,Samsung,57999,87.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,256
+350,Oppo,16490,73.0,HD,Snapdragon,False,13,False,Android,Mild Range,6,128
+351,Vivo,7999,61.0,HD,Helio,False,8,False,Android,Mild Range,2,32
+352,Realme,9299,62.0,HD,Tiger,False,13,False,Android,Entry Level,3,32
+353,Xiaomi,23990,86.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,8,128
+354,Vivo,19990,80.0,Full HD,Helio,False,64,False,Android,Mild Range,8,128
+355,Apple,95699,77.0,Quad HD,Bionic,False,12,True,iOS,Upper Mild Range,4,64
+356,Realme,32900,82.0,Full HD,Snapdragon,True,64,False,Android,High End,8,256
+357,Vivo,12999,75.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,128
+358,Xiaomi,51880,88.6,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,12,256
+359,Realme,15499,77.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+360,Samsung,89999,88.0,Full HD,Snapdragon,True,12,True,Android,High End,8,128
+361,Xiaomi,24890,83.0,Full HD,Dimensity,True,108,False,Android,Mild Range,6,128
+362,Oppo,12990,69.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+363,Samsung,23999,85.0,Full HD,Exynos,False,64,True,Android,Upper Mild Range,6,128
+364,OnePlus,35689,85.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,8,128
+365,Google,68900,88.8,Quad HD,Tensor,True,50,True,Android,Upper Mild Range,12,256
+366,Tecno,17999,84.0,Full HD,Helio,False,64,True,Android,Mild Range,8,128
+367,Nokia,9499,62.0,HD,Unisoc,False,13,False,Android,Entry Level,3,32
+368,Realme,15999,75.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,64
+369,Vivo,17999,82.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+370,iQOO,27999,82.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,12,256
+371,iQOO,14349,77.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,4,128
+372,Xiaomi,11500,74.0,Full HD,Helio,False,50,False,Android,Mild Range,4,64
+373,Realme,47990,89.0,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,128
+374,iQOO,59990,88.0,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,256
+376,Realme,27999,84.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,8,128
+377,Xiaomi,19994,82.0,Full HD,Snapdragon,False,108,False,Android,Mild Range,6,128
+378,Samsung,17990,79.0,Full HD,Dimensity,True,48,False,Android,Mild Range,6,128
+379,Xiaomi,17970,80.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,64
+380,Samsung,24990,83.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+381,Xiaomi,13999,75.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,4,64
+382,Vivo,25000,81.6,HD,Snapdragon,False,13,False,Android,Entry Level,3,16
+383,Nokia,28498,81.0,Full HD,Snapdragon,True,50,True,Android,Mild Range,6,128
+384,Infinix,12329,76.0,HD,Tiger,False,50,False,Android,Entry Level,8,128
+385,Oppo,17999,80.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+386,Oppo,9999,66.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+387,Vivo,9499,66.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+388,Apple,129900,83.0,Quad HD,Bionic,True,12,True,iOS,High End,6,256
+389,Realme,18770,82.0,Full HD,Dimensity,True,64,False,Android,Mild Range,8,128
+390,Vivo,16585,80.0,Full HD,Helio,False,50,False,Android,Entry Level,8,128
+391,Samsung,110999,89.0,Full HD,Snapdragon,True,12,True,Android,Upper Mild Range,12,256
+392,Samsung,9989,66.0,HD,Helio,False,13,False,Android,Mild Range,3,64
+393,Samsung,14499,72.0,HD,Exynos,False,50,False,Android,Entry Level,4,128
+394,Nokia,13415,75.0,HD,Unisoc,False,50,False,Android,Entry Level,6,128
+395,Oppo,9999,68.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+396,POCO,14999,81.0,Full HD,Helio,False,64,False,Android,Mild Range,8,128
+397,Realme,24494,82.0,Full HD,Dimensity,True,50,False,Android,Mild Range,8,256
+398,Realme,31994,83.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,8,128
+399,Tecno,9490,64.0,HD,Helio,False,16,False,Android,Entry Level,4,64
+400,Xiaomi,10499,72.0,HD,Helio,False,13,False,Android,Mild Range,6,128
+401,Realme,11499,71.0,HD,Helio,False,50,False,Android,Entry Level,4,64
+402,Samsung,11994,76.0,Full HD,Exynos,False,48,False,Android,Mild Range,4,64
+404,Realme,8399,62.0,HD,Unisoc,False,13,False,Android,Entry Level,3,32
+405,Vivo,23994,85.0,Full HD,Dimensity,True,64,False,Android,Mild Range,8,128
+406,Oppo,19990,83.0,Full HD,Helio,False,48,False,Android,Mild Range,8,128
+407,Apple,28990,63.0,HD,Bionic,False,12,False,iOS,Upper Mild Range,3,64
+408,Apple,102999,82.0,Quad HD,Bionic,True,12,True,iOS,High End,6,512
+409,Oppo,15998,71.0,HD,Helio,False,50,False,Android,Mild Range,4,128
+410,Infinix,10820,74.0,HD,Tiger,False,50,False,Android,Entry Level,6,64
+411,iQOO,47900,85.0,Full HD,Snapdragon,True,50,True,Android,High End,8,128
+412,Realme,22999,83.0,Full HD,Dimensity,True,48,False,Android,Mild Range,8,128
+414,Samsung,16499,78.0,Full HD,Other,False,50,False,Android,Entry Level,6,128
+415,Tecno,8968,72.0,Full HD,Helio,False,50,False,Android,Mild Range,4,64
+416,Infinix,15999,79.0,Full HD,Helio,False,50,False,Android,Mild Range,8,128
+417,Realme,8999,62.0,HD,Unisoc,False,8,False,Android,Entry Level,4,64
+418,Realme,15999,77.0,Full HD,Helio,False,50,False,Android,Mild Range,6,128
+419,Xiaomi,15999,78.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,6,128
+420,Vivo,13990,69.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+421,Apple,106699,80.0,Quad HD,Bionic,True,12,True,iOS,High End,6,512
+422,Realme,19390,85.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+423,Samsung,86000,87.0,Full HD,Exynos,False,64,True,Android,Upper Mild Range,8,256
+424,Samsung,11999,71.0,HD,Helio,False,48,False,Android,Mild Range,4,64
+425,Poco,29999,85.0,Full HD,Snapdragon,True,64,True,Android,High End,8,128
+426,Infinix,8299,63.0,HD,Helio,False,8,False,Android,Entry Level,3,64
+428,Xiaomi,15499,81.0,Full HD,Helio,False,108,False,Android,Mild Range,6,128
+429,Lava,17990,84.0,Full HD,Dimensity,True,64,False,Android,Mild Range,8,128
+430,Realme,10749,69.0,HD,Tiger,False,50,False,Android,Entry Level,4,64
+431,Samsung,23999,86.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,8,128
+432,Xiaomi,6499,61.0,HD,Helio,False,13,False,Android,Entry Level,2,32
+433,Oppo,13499,73.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+434,Realme,17900,80.0,Full HD,Dimensity,True,64,False,Android,Mild Range,6,128
+435,Samsung,13999,75.0,HD,Helio,False,48,False,Android,Mild Range,6,128
+436,Tecno,14699,79.0,Full HD,Helio,False,64,True,Android,Entry Level,6,128
+437,Realme,26999,84.0,Full HD,Dimensity,True,64,True,Android,Upper Mild Range,8,128
+438,Xiaomi,17998,81.0,Full HD,Snapdragon,False,108,False,Android,Mild Range,6,64
+439,Vivo,23269,85.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+440,Oppo,12490,72.0,HD,Helio,False,12,False,Android,Mild Range,6,128
+441,Samsung,11499,69.0,HD,Helio,False,13,False,Android,Mild Range,4,128
+443,Realme,44590,89.0,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,12,256
+444,Vivo,16745,81.0,Full HD,Snapdragon,False,50,False,Android,Mild Range,8,128
+445,Tecno,6699,61.0,HD,Other,False,13,False,Android,Mild Range,2,32
+446,POCO,14790,79.0,Full HD,Dimensity,True,48,False,Android,Mild Range,6,128
+447,POCO,14499,75.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,64
+448,Oppo,11990,71.0,HD,Helio,False,13,False,Android,Mild Range,4,128
+449,Motorola,58499,89.0,Full HD,Snapdragon,True,108,True,Android,Upper Mild Range,12,256
+450,Xiaomi,8999,68.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+451,Samsung,23900,80.0,Full HD,Exynos,False,48,True,Android,Mild Range,4,128
+452,Vivo,7999,62.8,HD,Helio,False,8,False,Android,Entry Level,2,32
+453,Realme,8800,62.0,HD,Unisoc,False,8,False,Android,Entry Level,4,64
+454,Apple,162999,78.0,Quad HD,Bionic,True,48,True,iOS,High End,6,512
+455,Realme,7999,61.0,HD,Tiger,False,8,False,Android,Entry Level,3,32
+456,Samsung,11499,70.0,HD,Unisoc,False,48,False,Android,Entry Level,4,64
+457,Samsung,88999,88.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,8,256
+458,Nokia,12499,71.0,HD,Unisoc,False,50,False,Android,Entry Level,4,64
+459,Xiaomi,39990,88.0,Full HD,Snapdragon,True,108,True,Android,Upper Mild Range,12,256
+460,Xiaomi,12999,77.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+461,Vivo,11990,68.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,64
+463,Xiaomi,25990,83.0,Full HD,Snapdragon,True,48,False,Android,High End,8,128
+464,Oppo,17994,80.0,Full HD,Helio,False,48,False,Android,Mild Range,8,128
+465,Samsung,59450,88.0,Full HD,Exynos,True,64,True,Android,Upper Mild Range,8,128
+466,Realme,24999,85.0,Full HD,Snapdragon,True,64,True,Android,Upper Mild Range,8,128
+467,Samsung,83000,88.0,Quad HD,Exynos,False,64,True,Android,Upper Mild Range,8,128
+468,Vivo,9490,64.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,32
+469,Realme,15499,75.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,4,64
+470,Vivo,11000,68.0,HD,Helio,False,13,False,Android,Entry Level,3,64
+471,Vivo,12500,71.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+472,Vivo,29999,82.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,8,128
+473,Vivo,15000,65.0,HD,Snapdragon,False,13,False,Android,Entry Level,4,64
+474,Apple,172999,77.0,Quad HD,Bionic,True,48,True,iOS,High End,6,1024
+475,Xiaomi,13756,76.0,Full HD,Helio,False,50,False,Android,Mild Range,6,128
+476,Xiaomi,10999,77.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,4,128
+477,Apple,155999,86.0,Quad HD,Bionic,True,12,True,iOS,High End,6,1024
+478,Tecno,7999,70.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+480,Nokia,5349,68.2,HD,Unisoc,False,5,False,Android,Entry Level,2,16
+481,Realme,16499,75.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,128
+482,Xiaomi,29990,85.0,Full HD,Snapdragon,True,108,False,Android,Upper Mild Range,8,128
+483,Oppo,11490,72.0,HD,Helio,False,13,False,Android,Mild Range,4,128
+484,Xiaomi,11499,74.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,4,64
+485,Xiaomi,22999,80.0,Full HD,Snapdragon,True,64,True,Android,Upper Mild Range,6,128
+486,Motorola,19990,82.0,Full HD,Snapdragon,True,48,True,Android,Mild Range,6,128
+487,Motorola,19399,80.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+488,Vivo,27990,84.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,8,256
+489,Samsung,39999,83.0,Full HD,Exynos,False,12,True,Android,Upper Mild Range,6,128
+490,Xiaomi,12999,78.0,Full HD,Snapdragon,False,12,False,Android,Upper Mild Range,6,128
+491,Samsung,34999,78.0,Quad HD,Exynos,False,12,True,Android,Upper Mild Range,6,128
+492,Poco,6999,61.0,HD,Helio,False,8,False,Android,Entry Level,3,32
+493,iKall,7499,61.0,HD,Other,False,20,False,Android,Entry Level,4,32
+494,Tecno,15499,71.0,Full HD,Dimensity,False,50,False,Android,Mild Range,4,128
+495,Vivo,59999,88.0,Full HD,Dimensity,True,50,False,Android,High End,12,256
+496,Xiaomi,17999,81.0,Full HD,Helio,False,108,False,Android,Mild Range,6,128
+497,Realme,11398,73.0,Full HD,Tiger,False,50,False,Android,Entry Level,4,64
+498,Xiaomi,24385,83.0,Full HD,Dimensity,True,108,False,Android,Mild Range,8,128
+499,Vivo,12499,69.0,HD,Snapdragon,False,13,False,Android,Mild Range,3,64
+500,Infinix,9690,71.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+501,Samsung,20989,81.0,HD,Dimensity,True,48,False,Android,Entry Level,8,128
+502,Samsung,13499,76.0,HD,Helio,False,48,False,Android,Entry Level,6,128
+503,Samsung,10999,67.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+504,Motorola,14499,77.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,4,64
+505,Realme,16999,80.0,Full HD,Dimensity,True,48,True,Android,Mild Range,6,128
+506,Samsung,10999,72.0,HD,Exynos,False,48,False,Android,Entry Level,4,64
+507,Samsung,10499,73.0,HD,Exynos,False,48,False,Android,Entry Level,4,64
+508,Apple,55999,75.0,Quad HD,Bionic,True,12,True,iOS,High End,4,256
+509,Apple,66999,76.0,Quad HD,Bionic,True,12,True,iOS,High End,4,256
+510,Samsung,18900,82.0,Full HD,Exynos,False,64,False,Android,Mild Range,6,128
+511,Vivo,27000,84.0,Full HD,Snapdragon,True,64,False,Android,Mild Range,8,128
+512,Xiaomi,9299,67.0,HD,Helio,False,13,False,Android,Entry Level,4,128
+513,Xiaomi,29999,86.0,Full HD,Snapdragon,True,108,True,Android,Upper Mild Range,8,128
+514,POCO,16999,76.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,4,64
+515,Realme,14390,80.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,64
+516,Xiaomi,11490,66.0,HD,Snapdragon,False,12,False,Android,Entry Level,4,64
+517,Vivo,25000,78.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,8,128
+518,Google,16999,67.0,Full HD,Snapdragon,False,12,True,Android,Entry Level,4,64
+519,Lava,6999,66.0,HD,Helio,False,8,False,Android,Entry Level,3,32
+520,iKall,6799,61.0,HD,Other,False,20,False,Android,Entry Level,4,64
+521,Motorola,9014,70.0,HD,Helio,False,16,False,Android,Mild Range,4,64
+522,Apple,111999,83.0,Quad HD,Bionic,True,12,True,iOS,High End,6,512
+523,Samsung,163980,84.6,Full HD,Snapdragon,True,50,True,Android,High End,12,1024
+524,Nokia,9999,64.0,HD,Unisoc,False,13,False,Android,Entry Level,4,64
+525,Infinix,12999,77.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+526,Infinix,13999,79.0,Full HD,Helio,False,50,False,Android,Entry Level,8,128
+527,Vivo,9289,66.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+528,Infinix,14499,77.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+529,Vivo,15499,74.0,HD,Snapdragon,False,50,False,Android,Mild Range,4,128
+530,Apple,83999,80.0,Quad HD,Bionic,True,12,True,iOS,High End,4,512
+531,Tecno,8999,72.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+532,Xiaomi,18199,82.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+533,Poco,21999,85.0,Full HD,Snapdragon,False,48,False,Android,Upper Mild Range,8,128
+534,Realme,19999,83.0,Full HD,Dimensity,True,48,False,Android,Mild Range,8,128
+535,Oppo,12290,70.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+536,Oppo,35990,84.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,8,128
+537,Poco,11490,75.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,6,64
+538,Oppo,9999,66.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+539,Vivo,20000,73.0,Full HD,Helio,False,16,False,Android,Entry Level,4,128
+540,Xiaomi,11988,75.0,Full HD,Helio,False,48,False,Android,Entry Level,4,64
+541,Xiaomi,13999,77.0,Full HD,Snapdragon,False,12,False,Android,Upper Mild Range,8,256
+542,Google,17999,70.0,Quad HD,Snapdragon,False,12,True,Android,Upper Mild Range,4,64
+544,Samsung,12999,72.0,HD,Helio,False,50,False,Android,Mild Range,4,128
+545,Xiaomi,8399,61.0,HD,Helio,False,8,False,Android,Entry Level,3,32
+546,Tecno,8199,63.0,HD,Helio,False,13,False,Android,Mild Range,3,64
+547,Poco,12999,77.0,Full HD,Helio,False,50,False,Android,Mild Range,6,128
+548,Tecno,14699,77.0,Full HD,Helio,False,48,True,Android,Entry Level,6,128
+549,Vivo,13499,65.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+550,Tecno,11499,75.0,Full HD,Helio,False,48,True,Android,Entry Level,4,128
+551,Apple,144999,84.0,Quad HD,Bionic,True,12,True,iOS,High End,6,1024
+552,Realme,31869,82.0,Full HD,Snapdragon,True,64,True,Android,High End,8,128
+553,Realme,29999,85.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,8,256
+555,Tecno,10999,74.0,Full HD,Helio,False,48,False,Android,Entry Level,4,64
+556,Realme,15499,75.0,Full HD,Dimensity,True,48,False,Android,Mild Range,4,64
+557,Motorola,15999,81.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+558,Oppo,15990,74.0,HD,Helio,False,13,False,Android,Mild Range,6,128
+559,Realme,12990,74.0,Full HD,Helio,False,50,False,Android,Mild Range,4,64
+560,Samsung,18499,76.0,HD,Helio,False,48,False,Android,Entry Level,6,128
+561,Realme,30994,85.0,Full HD,Snapdragon,True,64,True,Android,Upper Mild Range,8,128
+564,Samsung,17499,75.0,HD,Exynos,False,48,False,Android,Entry Level,6,128
+565,Xiaomi,14380,77.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,4,128
+566,Realme,17490,82.0,Full HD,Helio,False,64,False,Android,Mild Range,8,128
+567,Poco,10499,74.0,Full HD,Helio,False,13,False,Android,Entry Level,6,64
+568,Realme,10450,72.0,HD,Helio,False,48,False,Android,Entry Level,4,64
+569,Realme,18490,82.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+571,Xiaomi,18949,72.0,Full HD,Helio,False,13,False,Android,Entry Level,4,64
+572,Realme,12850,77.0,Full HD,Helio,False,64,False,Android,Mild Range,6,64
+573,Realme,6490,61.0,HD,Helio,False,13,False,Android,Mild Range,2,32
+574,Xiaomi,54999,88.0,Full HD,Snapdragon,True,108,True,Android,Upper Mild Range,8,256
+575,Apple,32990,65.0,HD,Bionic,False,12,False,iOS,Upper Mild Range,3,128
+576,Oppo,9990,64.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+577,Samsung,33999,86.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+578,Samsung,8490,66.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,32
+579,Xiaomi,13999,74.0,HD,Snapdragon,False,48,False,Android,Entry Level,4,64
+580,Xiaomi,6490,61.0,HD,Snapdragon,False,12,False,Android,Entry Level,2,32
+581,Samsung,15490,75.0,Full HD,Exynos,False,13,False,Android,Entry Level,6,128
+582,Google,18990,72.0,Quad HD,Snapdragon,False,12,True,Android,Upper Mild Range,4,128
+584,Xiaomi,10300,65.0,Full HD,Snapdragon,False,13,False,Android,Entry Level,4,64
+586,Lava,8999,66.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+587,Lava,7798,68.6,HD,Helio,False,13,False,Android,Entry Level,3,32
+588,Realme,8685,64.0,HD,Tiger,False,8,False,Android,Entry Level,4,64
+589,Samsung,164999,88.2,Full HD,Snapdragon,True,50,True,Android,High End,12,512
+590,Vivo,10499,67.0,HD,Helio,False,13,False,Android,Mild Range,3,64
+591,iKall,6283,60.0,HD,Other,False,16,False,Android,Entry Level,4,64
+592,Realme,11367,74.0,Full HD,Tiger,False,50,False,Android,Entry Level,4,128
+593,Apple,48900,61.0,HD,Bionic,True,12,True,iOS,High End,4,128
+595,Tecno,9999,65.0,HD,Helio,False,13,False,Android,Entry Level,6,128
+596,Samsung,20990,82.0,Full HD,Dimensity,True,64,False,Android,Mild Range,8,128
+597,Xiaomi,7280,62.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+598,Oppo,8999,63.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+599,Samsung,10950,69.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+600,Tecno,10199,69.0,HD,Helio,False,48,False,Android,Entry Level,4,64
+601,Vivo,26794,86.0,Full HD,Dimensity,True,64,False,Android,Mild Range,8,256
+602,Poco,29299,79.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,6,128
+603,iQOO,39990,84.0,Full HD,Snapdragon,True,48,True,Android,Upper Mild Range,8,128
+604,Realme,17999,83.0,Full HD,Helio,False,64,False,Android,Entry Level,8,128
+605,Realme,6999,61.0,HD,Other,False,8,False,Android,Entry Level,2,32
+606,Samsung,13999,75.0,HD,Exynos,False,48,False,Android,Entry Level,6,128
+607,Vivo,26999,78.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,6,128
+608,Poco,16990,81.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+609,Vivo,19000,82.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,8,128
+610,Realme,14990,78.0,Full HD,Helio,False,64,False,Android,Mild Range,6,64
+611,Samsung,8990,63.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,32
+612,Poco,14999,79.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,64
+613,Vivo,25490,83.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,8,128
+614,Realme,29380,84.0,Full HD,Snapdragon,False,64,True,Android,Upper Mild Range,12,256
+615,Motorola,11990,68.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+616,Oppo,29999,80.0,Full HD,Helio,False,48,False,Android,Mild Range,8,256
+617,Realme,6690,62.0,HD,Helio,False,13,False,Android,Entry Level,2,16
+618,Vivo,9600,63.8,HD,Helio,False,13,False,Android,Entry Level,2,32
+619,Google,14490,67.0,Quad HD,Snapdragon,False,12,True,Android,Mild Range,4,64
+620,Samsung,29999,75.0,Quad HD,Exynos,False,12,True,Android,Mild Range,6,64
+621,Nokia,10499,65.0,HD,Unisoc,False,13,False,Android,Entry Level,4,64
+622,Lava,10499,70.0,HD,Helio,False,50,False,Android,Mild Range,4,64
+623,Apple,152999,77.0,Quad HD,Bionic,True,48,True,iOS,High End,6,512
+625,iQOO,54499,87.0,Full HD,Snapdragon,True,50,True,Android,High End,12,256
+626,Apple,58900,61.0,HD,Bionic,True,12,True,iOS,High End,4,256
+627,Tecno,7399,62.0,HD,Unisoc,False,13,False,Android,Entry Level,3,64
+628,Xiaomi,37990,87.0,Full HD,Snapdragon,True,108,True,Android,Upper Mild Range,8,256
+629,Tecno,7075,63.6,HD,Helio,False,8,False,Android,Entry Level,3,32
+630,Infinix,8999,68.0,Full HD,Tiger,False,13,False,Android,Entry Level,4,64
+631,Xiaomi,28999,86.0,Full HD,Dimensity,True,108,False,Android,Mild Range,8,128
+632,Apple,71999,79.0,Quad HD,Bionic,True,12,True,iOS,High End,4,256
+635,POCO,11199,74.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,4,64
+636,Xiaomi,18999,83.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+637,Xiaomi,13499,77.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,6,128
+638,Motorola,10790,75.0,HD,Snapdragon,False,64,True,Android,Entry Level,4,64
+640,Xiaomi,19788,79.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+641,Realme,13499,75.0,Full HD,Helio,False,48,True,Android,Mild Range,4,64
+642,Poco,10999,69.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+643,Samsung,16999,80.0,Full HD,Exynos,False,64,False,Android,Mild Range,6,64
+644,Xiaomi,7480,62.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+645,Realme,10490,71.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+646,Oppo,16294,78.0,Full HD,Snapdragon,False,16,False,Android,Entry Level,6,128
+647,Poco,8499,66.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+648,Realme,10290,65.0,HD,Helio,False,12,False,Android,Entry Level,4,64
+649,Oppo,35900,87.0,Full HD,Helio,False,64,False,Android,Mild Range,8,256
+650,Vivo,23990,82.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,8,128
+651,Samsung,8990,61.0,HD,Helio,False,13,False,Android,Entry Level,2,32
+652,Xiaomi,9430,69.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,3,32
+653,Samsung,21490,70.0,Full HD,Exynos,False,24,False,Android,Mild Range,4,64
+654,Vivo,13490,69.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,16
+655,iKall,6649,61.0,HD,Other,False,20,False,Android,Entry Level,4,64
+656,Xiaomi,15999,77.0,Full HD,Helio,False,50,False,Android,Entry Level,6,128
+658,Samsung,94999,88.0,Full HD,Snapdragon,True,12,True,Android,High End,8,256
+660,iKall,6499,62.0,HD,Other,False,20,False,Android,Entry Level,4,64
+661,Lava,8549,63.0,HD,Helio,False,13,False,Android,Entry Level,3,64
+662,Realme,37494,84.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+663,Realme,38959,86.0,Full HD,Snapdragon,True,50,True,Android,Upper Mild Range,12,256
+665,Lava,6999,60.0,HD,Helio,False,8,False,Android,Mild Range,2,32
+666,Infinix,13999,75.0,Full HD,Helio,False,50,False,Android,Mild Range,6,64
+667,Apple,134999,85.0,Quad HD,Bionic,True,12,True,iOS,High End,6,512
+668,Realme,11599,70.0,HD,Tiger,False,50,False,Android,Entry Level,4,128
+669,Realme,9490,65.0,HD,Unisoc,False,13,False,Android,Entry Level,4,64
+670,Realme,25999,81.0,Full HD,Snapdragon,True,64,True,Android,Mild Range,6,128
+671,Samsung,103500,89.0,Full HD,Snapdragon,True,12,True,Android,Upper Mild Range,12,512
+672,Tecno,8690,61.0,HD,Other,False,13,False,Android,Entry Level,2,32
+673,Infinix,12499,74.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+674,Oppo,15990,75.0,HD,Dimensity,True,13,False,Android,Mild Range,6,128
+675,Xiaomi,33994,86.0,Full HD,Snapdragon,True,108,False,Android,Upper Mild Range,8,256
+676,POCO,9499,71.0,Full HD,Helio,False,13,False,Android,Entry Level,4,64
+677,Realme,11700,67.0,HD,Helio,False,13,False,Android,Entry Level,4,128
+678,Samsung,11499,74.0,HD,Exynos,False,48,False,Android,Entry Level,4,128
+679,Tecno,7699,61.0,HD,Helio,False,16,False,Android,Entry Level,2,32
+680,Realme,16999,81.0,Full HD,Helio,False,64,False,Android,Entry Level,6,128
+681,Realme,9999,65.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+683,Realme,9499,62.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+684,Samsung,85999,89.0,Full HD,Exynos,True,64,True,Android,Upper Mild Range,8,256
+685,Oppo,12000,70.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+687,Xiaomi,25250,83.0,Full HD,Snapdragon,True,64,True,Android,Upper Mild Range,8,128
+688,Realme,11499,73.0,HD,Helio,False,48,False,Android,Entry Level,4,128
+689,Xiaomi,8999,66.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+690,Realme,29999,84.0,Full HD,Dimensity,True,64,True,Android,Upper Mild Range,8,128
+691,Xiaomi,11999,74.0,Full HD,Helio,False,13,False,Android,Entry Level,4,128
+692,Xiaomi,14985,78.0,Full HD,Helio,False,48,False,Android,Entry Level,6,128
+693,Nokia,10399,61.0,HD,Helio,False,13,False,Android,Entry Level,3,64
+694,Xiaomi,8699,66.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,64
+695,Samsung,10490,68.0,HD,Snapdragon,False,13,False,Android,Entry Level,4,64
+696,Vivo,14990,71.0,HD,Helio,False,13,False,Android,Mild Range,4,128
+697,Vivo,31990,80.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,8,128
+698,Vivo,19000,78.0,Full HD,Snapdragon,False,13,False,Android,Entry Level,8,128
+699,Realme,10790,65.0,HD,Helio,False,12,False,Android,Entry Level,4,64
+700,Realme,11400,69.0,HD,Snapdragon,False,12,False,Android,Entry Level,4,64
+701,Realme,25900,82.0,Full HD,Snapdragon,False,64,True,Android,Upper Mild Range,8,128
+702,Samsung,29990,83.0,Full HD,Snapdragon,False,64,True,Android,Entry Level,8,128
+703,Oppo,15298,74.0,HD,Snapdragon,False,48,False,Android,Entry Level,4,128
+704,Apple,106600,77.0,Quad HD,Bionic,False,12,True,iOS,Upper Mild Range,4,64
+705,Nokia,6499,68.2,HD,Helio,False,13,False,Android,Entry Level,3,32
+706,Motorola,12690,76.0,Quad HD,Exynos,False,16,True,Android,Mild Range,4,128
+707,Vivo,9000,63.8,HD,Helio,False,13,False,Android,Entry Level,2,16
+708,Oppo,11998,67.0,Full HD,Snapdragon,False,16,False,Android,Entry Level,4,64
+709,Oppo,12998,61.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,32
+710,Xiaomi,8999,62.0,HD,Snapdragon,False,12,False,Android,Entry Level,3,32
+712,Vivo,16000,69.0,Full HD,Snapdragon,False,16,False,Android,Mild Range,4,64
+714,Samsung,25390,67.0,Full HD,Snapdragon,False,16,True,Android,Mild Range,4,64
+715,Vivo,10990,62.2,HD,Snapdragon,False,8,False,Android,Entry Level,2,16
+717,iKall,4999,61.0,HD,Other,False,8,False,Android,Entry Level,3,32
+719,iKall,6599,61.0,HD,Other,False,20,False,Android,Entry Level,4,64
+721,iKall,6199,60.0,HD,Other,False,16,False,Android,Entry Level,4,64
+722,iKall,6299,63.8,HD,Other,False,13,False,Android,Entry Level,4,64
+723,iKall,6699,62.0,HD,Other,False,20,False,Android,Entry Level,4,64
+724,iKall,6949,60.0,HD,Other,False,16,False,Android,Entry Level,4,64
+725,Nokia,5969,68.2,HD,Unisoc,False,5,False,Android,Entry Level,2,32
+726,Realme,38999,83.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,8,256
+727,Xiaomi,19990,83.0,Full HD,Helio,False,108,False,Android,Mild Range,8,128
+728,Lava,5299,67.2,HD,Other,False,5,False,Android,Entry Level,2,32
+729,Nokia,8999,61.0,HD,Unisoc,False,13,False,Android,Entry Level,3,32
+731,Xiaomi,10900,74.0,Full HD,Helio,False,50,False,Android,Entry Level,4,64
+732,Tecno,6299,62.0,HD,Other,False,8,False,Android,Entry Level,2,32
+733,Nokia,10990,64.0,HD,Unisoc,False,13,False,Android,Entry Level,4,64
+734,Lava,5690,68.6,HD,Helio,False,13,False,Android,Mild Range,2,32
+735,Realme,12409,73.0,HD,Helio,False,50,False,Android,Entry Level,4,128
+736,Apple,89999,80.0,Quad HD,Bionic,True,12,True,iOS,High End,4,512
+737,Apple,125999,84.0,Quad HD,Bionic,True,12,True,iOS,High End,6,512
+739,Infinix,11999,73.0,Full HD,Helio,False,50,False,Android,Entry Level,4,128
+740,Samsung,88999,85.0,Full HD,Snapdragon,True,12,True,Android,Upper Mild Range,8,256
+741,Poco,28999,81.0,Full HD,Dimensity,True,64,False,Android,Upper Mild Range,8,128
+742,Infinix,9999,67.0,Full HD,Helio,False,13,False,Android,Entry Level,4,64
+743,Realme,11500,69.0,HD,Helio,False,13,False,Android,Entry Level,4,128
+744,Tecno,18499,84.0,Full HD,Helio,False,64,False,Android,Mild Range,8,128
+745,Nokia,11879,73.0,HD,Helio,False,48,False,Android,Mild Range,4,64
+746,Samsung,9499,65.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,32
+747,Samsung,37999,87.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,256
+749,Motorola,10999,72.0,HD,Snapdragon,False,48,False,Android,Entry Level,4,64
+750,Realme,10890,67.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+751,Motorola,9499,66.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+753,Samsung,73999,88.0,Full HD,Exynos,True,64,True,Android,Upper Mild Range,8,256
+754,Vivo,10999,66.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,64
+755,Realme,7499,65.0,HD,Helio,False,8,False,Android,Mild Range,2,32
+756,Poco,12990,77.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,6,128
+760,Realme,9890,68.0,HD,Snapdragon,False,12,False,Android,Entry Level,4,64
+761,Realme,13475,73.0,HD,Snapdragon,False,64,False,Android,Entry Level,4,64
+763,Oppo,11990,65.0,HD,Snapdragon,False,13,False,Android,Entry Level,4,64
+764,Realme,8490,65.0,HD,Helio,False,13,False,Android,Mild Range,3,32
+765,POCO,14890,78.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,6,64
+766,Oppo,10990,67.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+767,Realme,28990,83.0,Full HD,Snapdragon,False,64,False,Android,Upper Mild Range,12,256
+768,Realme,12790,75.0,Full HD,Helio,False,48,False,Android,Mild Range,6,64
+769,Realme,12390,75.0,Full HD,Helio,False,64,False,Android,Mild Range,4,64
+770,Realme,24999,82.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+771,Realme,18990,81.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,8,128
+772,Oppo,17899,79.0,HD,Snapdragon,False,48,False,Android,Entry Level,8,128
+773,Realme,7730,63.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+774,Realme,7650,60.0,HD,Helio,False,13,False,Android,Entry Level,2,32
+775,Xiaomi,7490,61.0,HD,Snapdragon,False,12,False,Android,Entry Level,2,16
+776,Xiaomi,21499,76.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,6,64
+777,Realme,8390,63.8,HD,Helio,False,13,False,Android,Entry Level,3,32
+778,Samsung,20499,77.0,Full HD,Snapdragon,False,32,True,Android,Entry Level,6,128
+779,Vivo,28000,79.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,6,128
+780,Realme,11490,67.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+781,Xiaomi,9490,68.0,Full HD,Snapdragon,False,12,False,Android,Mild Range,3,32
+782,Vivo,13000,62.0,HD,Helio,False,13,False,Android,Entry Level,3,64
+783,Realme,6790,63.8,HD,Snapdragon,False,13,False,Android,Entry Level,2,16
+784,Realme,12600,66.0,Full HD,Snapdragon,False,16,False,Android,Mild Range,4,64
+785,Samsung,6499,63.2,HD,Exynos,False,8,False,Android,Entry Level,1,8
+786,Realme,10990,63.0,HD,Snapdragon,False,13,False,Android,Entry Level,4,64
+787,Xiaomi,13499,67.0,HD,Snapdragon,False,12,False,Android,Entry Level,4,64
+788,Vivo,18000,69.0,HD,Snapdragon,False,13,False,Android,Entry Level,4,32
+789,Xiaomi,9999,63.0,HD,Snapdragon,False,12,False,Android,Entry Level,4,64
+790,Vivo,13990,63.0,HD,Snapdragon,False,16,False,Android,Entry Level,4,32
+791,Xiaomi,12990,66.0,Full HD,Snapdragon,False,12,False,Android,Entry Level,4,64
+792,Xiaomi,7499,60.0,HD,Snapdragon,False,12,False,Android,Entry Level,3,32
+793,Samsung,8490,68.8,HD,Snapdragon,False,8,True,Android,Entry Level,2,16
+797,iKall,5989,63.4,HD,Other,False,16,False,Android,Entry Level,4,32
+798,iKall,6488,62.0,HD,Other,False,20,False,Android,Entry Level,4,64
+799,Lava,7498,68.6,HD,Helio,False,8,False,Android,Entry Level,3,32
+800,Realme,42999,85.0,Full HD,Dimensity,True,50,True,Android,Upper Mild Range,12,256
+801,iKall,4749,61.0,HD,Other,False,8,False,Android,Entry Level,3,16
+802,iQOO,64990,89.0,Quad HD,Snapdragon,True,50,True,Android,Upper Mild Range,12,256
+803,Vivo,15490,70.0,HD,Snapdragon,False,13,False,Android,Entry Level,6,64
+804,Tecno,7990,61.0,HD,Helio,False,16,False,Android,Entry Level,2,64
+805,Realme,14499,77.0,Full HD,Helio,False,48,True,Android,Mild Range,6,64
+806,Infinix,7199,60.0,HD,Helio,False,8,False,Android,Entry Level,2,32
+807,Realme,15499,78.0,Full HD,Helio,False,48,True,Android,Mild Range,6,128
+808,Tecno,10299,73.0,HD,Helio,False,48,False,Android,Entry Level,6,64
+809,Nokia,9390,61.0,HD,Unisoc,False,13,False,Android,Entry Level,3,32
+810,Lava,7799,61.0,HD,Helio,False,13,False,Android,Entry Level,2,32
+811,Realme,10200,67.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+812,Realme,9999,65.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+814,Nokia,11449,68.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+815,Nokia,12699,73.0,HD,Snapdragon,False,48,False,Android,Entry Level,6,64
+817,Tecno,8700,63.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+818,Xiaomi,13990,75.0,Full HD,Snapdragon,False,48,False,Android,Entry Level,4,128
+819,Infinix,6499,65.0,HD,Helio,False,8,False,Android,Entry Level,2,32
+820,Realme,9900,64.0,HD,Helio,False,13,False,Android,Entry Level,3,32
+822,Nokia,10999,70.0,HD,Snapdragon,False,48,False,Android,Entry Level,4,64
+823,Realme,30049,82.0,Full HD,Snapdragon,False,64,False,Android,Upper Mild Range,8,256
+824,Samsung,8499,64.8,HD,Other,False,13,False,Android,Entry Level,2,32
+825,Tecno,10900,68.0,HD,Helio,False,16,False,Android,Entry Level,4,64
+826,Oppo,10490,66.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,32
+827,Realme,8499,65.0,HD,Snapdragon,False,12,False,Android,Entry Level,3,32
+828,Realme,13490,78.0,Full HD,Helio,False,48,False,Android,Mild Range,6,64
+829,Vivo,12490,67.0,HD,Snapdragon,False,13,False,Android,Entry Level,3,64
+830,Motorola,11490,69.0,HD,Snapdragon,False,48,False,Android,Entry Level,4,64
+831,Lava,5099,63.6,HD,Other,False,8,False,Android,Entry Level,2,16
+832,POCO,15999,79.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,6,128
+833,Xiaomi,13499,75.0,Full HD,Helio,False,48,False,Android,Entry Level,4,128
+834,Realme,8990,62.0,HD,Helio,False,12,False,Android,Entry Level,3,32
+835,Realme,12950,74.0,HD,Helio,False,48,False,Android,Entry Level,4,128
+837,Poco,17999,81.0,Full HD,Snapdragon,False,64,False,Android,Mild Range,6,128
+838,Motorola,11590,70.0,HD,Snapdragon,False,48,True,Android,Entry Level,4,64
+839,Realme,9790,62.0,HD,Helio,False,12,False,Android,Entry Level,3,32
+840,Vivo,15000,75.0,Full HD,Snapdragon,False,16,False,Android,Entry Level,6,64
+841,Motorola,8990,66.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+842,Xiaomi,16999,77.0,HD,Snapdragon,False,48,False,Android,Entry Level,6,128
+843,Xiaomi,23990,77.0,Full HD,Snapdragon,False,48,False,Android,Mild Range,6,128
+844,Realme,10490,65.0,HD,Helio,False,13,False,Android,Entry Level,4,64
+845,Xiaomi,6900,60.0,HD,Snapdragon,False,12,False,Android,Entry Level,2,32
+846,Oppo,12999,64.0,HD,Helio,False,13,False,Android,Mild Range,4,64
+847,Motorola,16990,76.0,Quad HD,Exynos,False,48,True,Android,Mild Range,4,128
+848,Realme,10490,61.0,HD,Helio,False,13,False,Android,Mild Range,3,64
+849,Xiaomi,12999,70.0,Full HD,Snapdragon,False,12,False,Android,Mild Range,4,64
+851,Vivo,15000,60.0,HD,Helio,False,13,False,Android,Entry Level,4,32
+853,Xiaomi,6999,68.2,HD,Helio,False,13,False,Android,Entry Level,2,32
+854,Nokia,7499,68.2,HD,Helio,False,13,True,Android,Entry Level,3,32
+855,Oppo,60990,80.0,Full HD,Snapdragon,False,20,True,Android,Upper Mild Range,8,256
