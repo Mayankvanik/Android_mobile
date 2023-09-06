@@ -5,7 +5,7 @@ import pickle
 
 
 pipe = pickle.load(open('pipexg.pkl','rb'))
-df = pickle.load(open('d1.pkl','rb'))
+df = pickle.load(open('d2.pkl','rb'))
 
 st.title('Android Mobile Price Predictor')
 
